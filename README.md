@@ -26,6 +26,15 @@ I have thoroughly processed the dataset mentioned above, which involved an exten
 ## Data Visualization 
  A presentation of All Accidents and the years 
 
- ![Data Visualization](Images\Accidentsyear.png)
+ ![Data Visualization](Images/Accidentsyear.png)
+
+A presentation of Purpose of flight vs Make 
+ ![Flight vs Make](Images/Purpose of Flight VS Make.PNG)
+
+
+A presentation of Purpose of State vs Total Injuries 
+![State vs Total Injuries](Images/State VS Injuries.PNG)
+
+###  <u> Conclusion </u>
 
  
