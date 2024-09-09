@@ -11,3 +11,21 @@ To investigate the risks involved in the Aviation Industry and come up with an i
 1. Analyze the Given data
 2. Create a storyline by visualization from the Data provided.
 3. Come up with an analysis to come up with data-based decision for our aviation division
+
+
+### <u> Data Understanding </u>
+
+## *Data Source* 
+  ([Data Source](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses))
+
+## Description of Data 
+I have thoroughly processed the dataset mentioned above, which involved an extensive data cleaning phase to ensure accuracy and consistency. Following this meticulous cleaning process, I performed various visualizations to extract and present meaningful insights from the data. These visualizations help to better understand the underlying patterns and trends, facilitating informed decision-making.
+
+[Data cleaning % Visualization Process](joseph.ipynb)
+
+## Data Visualization 
+ A presentation of All Accidents and the years 
+
+ ![Data Visualization](Images\Accidentsyear.png)
+
+ 
