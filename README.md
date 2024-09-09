@@ -24,25 +24,28 @@ I have thoroughly processed the dataset mentioned above, which involved an exten
 [Data cleaning % Visualization Process](joseph.ipynb)
 
 ## Data Visualization 
- A presentation of All Accidents and the years 
+ A presentation of All Accidents and the years.
 
  ![Data Visualization](Images/Accidentsyear.png)
 
-A presentation of Purpose of flight vs Make
+ A presentation of Purpose of flight vs Make
 
- [Flight vs Make](Images\PurposeofFlightVSMake.PNG)
+ ![Flight vs Make](Images\PurposeofFlightVSMake.PNG)
  
 
-A presentation of Purpose of State vs Total Injuries 
+ A presentation of Purpose of State vs Total Injuries 
 
-![State vs Total Injuries](Images\YearVsTotalInjured.PNG)
+ ![State vs Total Injuries](Images\YearVsTotalInjured.PNG)
 
 ###  <u> Conclusion </u>
 
-1.Engine type Impacts on accidents
-2.Prioritize operational focus on flight purposes with fewer recorded accidents or ensure stricter safety regulations for flight purposes that have higher accident rates, reducing overall risk.
-3.Its necessary to avoid investing in the Amateur built planes
-4.Prioritize aircraft with a lower likelihood of significant damage during accidents. This can reduce long-term costs related to repairs, downtime, and replacements.
+1.Engine type Impacts on accidents  <br>
+
+2.Prioritize operational focus on flight purposes with fewer recorded accidents or ensure stricter safety regulations for flight purposes that have higher accident rates, reducing overall risk.<br>
+
+3.Its necessary to avoid investing in the Amateur built planes<br>
+
+4.Prioritize aircraft with a lower likelihood of significant damage during accidents. This can reduce long-term costs related to repairs, downtime, and replacements.<br>
 
 
  
