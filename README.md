@@ -28,13 +28,21 @@ I have thoroughly processed the dataset mentioned above, which involved an exten
 
  ![Data Visualization](Images/Accidentsyear.png)
 
-A presentation of Purpose of flight vs Make 
- ![Flight vs Make](Images/Purpose of Flight VS Make.PNG)
+A presentation of Purpose of flight vs Make
 
+ [Flight vs Make](Images\PurposeofFlightVSMake.PNG)
+ 
 
 A presentation of Purpose of State vs Total Injuries 
-![State vs Total Injuries](Images/State VS Injuries.PNG)
+
+![State vs Total Injuries](Images\YearVsTotalInjured.PNG)
 
 ###  <u> Conclusion </u>
+
+1.Engine type Impacts on accidents
+2.Prioritize operational focus on flight purposes with fewer recorded accidents or ensure stricter safety regulations for flight purposes that have higher accident rates, reducing overall risk.
+3.Its necessary to avoid investing in the Amateur built planes
+4.Prioritize aircraft with a lower likelihood of significant damage during accidents. This can reduce long-term costs related to repairs, downtime, and replacements.
+
 
  
