@@ -30,7 +30,7 @@ I have thoroughly processed the dataset mentioned above, which involved an exten
 
  A presentation of Purpose of flight vs Make
 
- ![Flight vs Make](Images\PurposeofFlightVSMake.PNG)
+ ![Flight vs Make](Images\FlightvsMake.PNG)
  
 
  A presentation of Purpose of State vs Total Injuries 
