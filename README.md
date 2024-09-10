@@ -1,4 +1,6 @@
 # Flight-Damage-Stats
+ 
+ ![Image](Images/image.jpg) 
   ### Introduction
 As part of our company's strategic expansion into new industries, we are venturing into the aviation sector, aiming to acquire and operate aircraft for both commercial and private purposes. However, understanding the risks associated with different aircraft types is crucial for making informed purchasing decisions.
 
@@ -24,7 +26,7 @@ I have thoroughly processed the dataset mentioned above, which involved an exten
 [Data cleaning % Visualization Process](joseph.ipynb)
 
 ## Data Visualization 
- A presentation of All Accidents and the years.
+ A presentation of All Accidents and their occurrence on Monthy Basis .
 
  ![Data Visualization](Images/Snips/Time_series_Injuries.JPG)
 
@@ -33,9 +35,9 @@ I have thoroughly processed the dataset mentioned above, which involved an exten
  ![Flight vs Make](Images/Snips/Purpose_vs_Injuries.JPG)
  
 
- A Time Series presentation of Month vs Total Injuries 
+ Line  graph presentation of the total Injuries and Year vs the make of plane 
 
- ![Month vs Total Injuries](Images/Snips/Time_series_Injuries.JPG)
+ ![Month vs Total Injuries](Images/Snips/Injuries_vs_Make.JPG)
 
 ###  <u> Conclusion </u>
 
