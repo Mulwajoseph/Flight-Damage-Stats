@@ -33,9 +33,9 @@ I have thoroughly processed the dataset mentioned above, which involved an exten
  ![Flight vs Make](Images\FlightvsMake.PNG)
  
 
- A presentation of Purpose of State vs Total Injuries 
+ A Time Series presentation of Month vs Total Injuries 
 
- ![State vs Total Injuries](Images\YearVsTotalInjured.PNG)
+ ![Month vs Total Injuries](Images\Snips\Time_series_Injuries.JPG)
 
 ###  <u> Conclusion </u>
 
