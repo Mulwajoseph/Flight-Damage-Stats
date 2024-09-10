@@ -21,9 +21,10 @@ To investigate the risks involved in the Aviation Industry and come up with an i
    #### 1.Clone the Repository 
    To Install the project on your local machine, first clone the repository using your terminal <br/>
   a.Open your terminal and run </br>
+  
            git clone https://github.com/Mulwajoseph/Flight-Damage-Stats.git <br/>
 
-  b.Navigate to your project Directory  <br/>
+  b.Navigate to your project Directory  
 
             cd project 1 
 
