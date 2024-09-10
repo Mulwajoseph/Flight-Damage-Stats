@@ -33,7 +33,7 @@ To investigate the risks involved in the Aviation Industry and come up with an i
   Create a virtual environment using Conda(Recommended):<br/>
 
            conda create --name myenv python=3.11.5  
-  Activate my environment 
+  Activate my environment <br/>
            conda activate myenv
 
  d.Install Dependencies;This will install all necessary libraries<br/>
