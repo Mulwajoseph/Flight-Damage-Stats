@@ -29,9 +29,10 @@ To investigate the risks involved in the Aviation Industry and come up with an i
 
   c.Set up the environment<br/> 
 
-        Create a virtual environment using Conda(Recommended):<br/>
+  Create a virtual environment using Conda(Recommended):<br/>
 
-           conda create --name myenv python=3.11.5
+           conda create --name myenv python=3.11.5  
+           
            conda activate myenv
 
  d.Install Dependencies;This will install all necessary libraries<br/>
