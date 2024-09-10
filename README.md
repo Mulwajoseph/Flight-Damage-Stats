@@ -16,9 +16,6 @@ To investigate the risks involved in the Aviation Industry and come up with an i
 2. Create a storyline by visualization from the Data provided.
 3. Come up with an analysis to come up with data-based decision for our aviation division
 
-
-# <u> Data Understanding </u>
-
    ## Set Up Installation
 
    #### 1.Clone the Repository 
@@ -27,17 +24,23 @@ To investigate the risks involved in the Aviation Industry and come up with an i
            git clone https://github.com/Mulwajoseph/Flight-Damage-Stats.git <br/>
 
   b.Navigate to your project Directory  <br/>
+
             cd project 1 
 
   c.Set up the environment<br/> 
+
         Create a virtual environment using Conda(Recommended):<br/>
+
            conda create --name myenv python=3.11.5
            conda activate myenv
 
  d.Install Dependencies;This will install all necessary libraries<br/>
+
            pip install -r requirements.txt 
  
-## *Data Source* 
+ # <u> Data Understanding </u>
+
+## Data Source 
   ([Data Source](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses))
 
 ## Description of Data 
