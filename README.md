@@ -17,8 +17,26 @@ To investigate the risks involved in the Aviation Industry and come up with an i
 3. Come up with an analysis to come up with data-based decision for our aviation division
 
 
-### <u> Data Understanding </u>
+# <u> Data Understanding </u>
 
+   ## Set Up Installation
+
+   #### 1.Clone the Repository 
+   To Install the project on your local machine, first clone the repository using your terminal <br/>
+      a.Open your terminal and run
+      git clone https://github.com/Mulwajoseph/Flight-Damage-Stats.git
+
+    b.Navigate to your project Directory 
+     *cd project 1 *
+    
+    c.Set up the environment 
+        i)Create a virtual environment using Conda(Recommended):
+       conda create --name myenv python=3.11.5
+       conda activate myenv
+
+    d.Install Dependencies;This will install all necessary libraries
+       pip install -r requirements.txt 
+ 
 ## *Data Source* 
   ([Data Source](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses))
 
