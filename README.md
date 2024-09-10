@@ -1,6 +1,8 @@
 # Flight-Damage-Stats
  
- ![Image](Images/image.jpg) 
+ <img src="Images/image.jpg" alt="Plane Image" width="600"/>
+
+ 
   ### Introduction
 As part of our company's strategic expansion into new industries, we are venturing into the aviation sector, aiming to acquire and operate aircraft for both commercial and private purposes. However, understanding the risks associated with different aircraft types is crucial for making informed purchasing decisions.
 
