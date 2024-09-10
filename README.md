@@ -1,6 +1,6 @@
 # Flight-Damage-Stats
  
- <img src="Images/image.jpg" alt="Plane Image" width="600"/>
+ <img src="Images/image.jpg" alt="Plane Image" width="900"/>
 
  
   ### Introduction
