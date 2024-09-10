@@ -23,18 +23,18 @@ To investigate the risks involved in the Aviation Industry and come up with an i
 
    #### 1.Clone the Repository 
    To Install the project on your local machine, first clone the repository using your terminal <br/>
-      a.Open your terminal and run
-      git clone https://github.com/Mulwajoseph/Flight-Damage-Stats.git
+      a.Open your terminal and run </br>
+      git clone https://github.com/Mulwajoseph/Flight-Damage-Stats.git <br/>
 
-     b.Navigate to your project Directory 
-     *cd project 1 *
+  b.Navigate to your project Directory  <br/>
+      *cd project 1 *
     
-     c.Set up the environment 
-        i)Create a virtual environment using Conda(Recommended):
+  c.Set up the environment<br/> 
+        i.Create a virtual environment using Conda(Recommended):<br/>
        conda create --name myenv python=3.11.5
        conda activate myenv
 
-     d.Install Dependencies;This will install all necessary libraries
+ d.Install Dependencies;This will install all necessary libraries<br/>
        pip install -r requirements.txt 
  
 ## *Data Source* 
