@@ -26,15 +26,15 @@ To investigate the risks involved in the Aviation Industry and come up with an i
       a.Open your terminal and run
       git clone https://github.com/Mulwajoseph/Flight-Damage-Stats.git
 
-    b.Navigate to your project Directory 
+     b.Navigate to your project Directory 
      *cd project 1 *
     
-    c.Set up the environment 
+     c.Set up the environment 
         i)Create a virtual environment using Conda(Recommended):
        conda create --name myenv python=3.11.5
        conda activate myenv
 
-    d.Install Dependencies;This will install all necessary libraries
+     d.Install Dependencies;This will install all necessary libraries
        pip install -r requirements.txt 
  
 ## *Data Source* 
